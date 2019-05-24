@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="jpublankproject" uuid="6486b22e-605a-421f-9deb-af6091036489">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>forget</secret-storage>
+    </data-source>
+    <data-source name="@localhost" uuid="4ad64d69-a357-494e-ba68-756073498ef7">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>forget</secret-storage>
+    </data-source>
+    <data-source name="MySQL - @localhost" uuid="162744de-92a5-4240-8150-45b34678cc3e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>forget</secret-storage>
+    </data-source>
+  </component>
+</project>
